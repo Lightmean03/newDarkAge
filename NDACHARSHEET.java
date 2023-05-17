@@ -1,6 +1,5 @@
 package NewDarkAge;
 import java.util.Random;
-import Pirmohamed.InputHandler;
 
 import java.util.*;
 public class NDACHARSHEET {
